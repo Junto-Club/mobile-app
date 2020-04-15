@@ -1,0 +1,17 @@
+{
+  "name": "Junto",
+  "displayName": "Junto",
+  "expo": {
+    "name": "Junto",
+    "slug": "Junto",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
